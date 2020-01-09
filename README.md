@@ -3,7 +3,7 @@
 
 ## Chi siamo
 
-Proximo è una software house specializzata in soluzioni business per il mercato PMI / Enterprise, ci occupiamo di Knowledge Management, Manufacturing, Logistica ed Industrial IoT.
+Proximo è una software house specializzata in soluzioni business per il mercato PMI / Enterprise, ci occupiamo di Knowledge Management, Manufacturing, Logistica e Industrial IoT.
 
 ## Chi cerchiamo
 
