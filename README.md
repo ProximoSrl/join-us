@@ -1,6 +1,5 @@
 ![Join US](https://github.com/ProximoSrl/join-us/blob/master/cover-medium.jpg)
 
-# Join US 2020
 
 ## Chi siamo
 
@@ -8,7 +7,7 @@ Proximo è una software house specializzata in soluzioni business per il mercato
 
 ## Chi cerchiamo
 
-Cerchiamo sviluppatori appassionati di tecnologia e focalizzati sulla consegna del valore ai clienti; ci piace vedere i clienti che lavorano con le nostre soluzioni e continuiamo ad investire per migliorare la qualità con cui le realizziamo.
+Cerchiamo **sviluppatori** appassionati di tecnologia e focalizzati sulla consegna del valore ai clienti; ci piace vedere i clienti che lavorano con le nostre soluzioni e continuiamo ad investire per migliorare la qualità con cui le realizziamo.
 
 ## Cosa Offriamo
 
