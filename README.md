@@ -7,7 +7,7 @@ Proximo è una software house specializzata in soluzioni business per il mercato
 
 ## Chi cerchiamo
 
-Cerchiamo **sviluppatori** appassionati di tecnologia e focalizzati sulla consegna del valore ai clienti; ci piace vedere i clienti che lavorano con le nostre soluzioni e continuiamo ad investire per migliorare la qualità con cui le realizziamo.
+Cerchiamo **sviluppatori** (sia Junior che Senior) appassionati di tecnologia e focalizzati sulla consegna del valore ai clienti; ci piace vedere i clienti che lavorano con le nostre soluzioni e continuiamo ad investire per migliorare la qualità con cui le realizziamo.
 
 ## Cosa Offriamo
 
@@ -31,9 +31,10 @@ I candidati che stiamo cercando devono avere:
 Sono valutate positivamente le conoscenze relative a :
 
 - C#
+- c++ ( Microarea Task Builder )
 - Javascript / Typescript
-- .NET Framework 4.6+ e/o .NET Core 2+
-- Angular 8
+- Microsoft .NET
+- Angular 12
 - MongoDB / Elasticsearch / SqlServer
 - Git
 - Xamarin
