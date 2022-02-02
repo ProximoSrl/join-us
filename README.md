@@ -1,4 +1,4 @@
-![Join US](./cover-medium.jpg)
+![Join US](./join-us-2022.jpeg)
 
 
 ## Chi siamo
